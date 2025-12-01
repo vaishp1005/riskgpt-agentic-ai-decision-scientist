@@ -28,6 +28,7 @@ d. Adaptive re-evaluation
 
 e. Transparent decision trace logs
 
+
 ### 2. Monte Carlo Simulation Framework
 
 a. Supports 10,000–50,000 simulations
@@ -37,6 +38,7 @@ b. Models payoff distributions & fat-tail risk
 c. Computes confidence intervals, VaR-style metrics
 
 d. Scenario-based stress modeling
+
 
 ### 3. Market Intelligence Module (RELIANCE 2010–2025)
 
@@ -53,6 +55,7 @@ d. Candlestick pattern recognition
 e. One-year Monte Carlo price forecast
 
 f. FD vs Equity comparative return model
+
 
 ### 4. Multi-Domain Decision Analysis
 
@@ -95,6 +98,7 @@ c. Drawdown analytics
 
 d. Uncertainty quantification
 
+
 ### **2. Systems Engineering**
 
 a. Modular architecture
@@ -102,6 +106,7 @@ a. Modular architecture
 b. Extensible agent framework
 
 c. Multi-scenario batch evaluation
+
 
 ### **3. Quantitative Rigor**
 
@@ -113,6 +118,7 @@ c. Percentile-based risk scoring
 
 d. Monte Carlo simulations
 
+
 ### **4. Agentic AI Concepts**
 
 a. Adaptive PAOR loop
@@ -120,6 +126,7 @@ a. Adaptive PAOR loop
 b. Internal reflection logic
 
 c. Multi-agent extensibility
+
 
 ## **Visuals**
 
@@ -135,6 +142,7 @@ Includes clean, interpretable plots:
 
 These visuals communicate risk clearly and professionally.
 
+
 ## **Demo Output (Sample)**
 
 Current Price: 326.89  
@@ -148,6 +156,7 @@ Final Recommendation: AVOID
 ## **Repository Structure**
 
 <img width="694" height="266" alt="image" src="https://github.com/user-attachments/assets/f94b4e6b-b6ab-4fd1-8248-9a5ef626e982" />
+
 
 ## **How to Run**
 
@@ -167,6 +176,7 @@ c. Market intelligence
 
 d. Recommendation engine
 
+
 ### **Capstone Project (Google + Kaggle)**
 
 This project originated as part of the Google AI Agents Intensive — Freestyle Track (2025), demonstrating:
@@ -180,6 +190,7 @@ This project originated as part of the Google AI Agents Intensive — Freestyle 
 4. End-to-end uncertainty modeling
 
 It has since been significantly expanded and refined into a research-level system suitable for real-world applications.
+
 
 ## Future Work & Roadmap
 
@@ -212,6 +223,7 @@ Although RiskGPT is fully functional, the following upgrades would transform it 
 - Extend beyond single-stock intelligence to NIFTY50-level portfolios
 
 This roadmap reflects the long-term vision of evolving RiskGPT from a notebook prototype into an intelligent, agent-driven financial research platform.
+
 
 ## 👤 Author
 
