@@ -1,4 +1,4 @@
-## **RiskGPT — Agentic AI Decision Scientist + Market Intelligence Engine**
+## **RiskGPT : Agentic AI Decision Scientist + Market Intelligence Engine**
 A Unified Agentic System for Probabilistic Reasoning, Risk Modeling & Market Simulation (RELIANCE 2010–2025)
 <p align="center"> <img src="https://github.com/user-attachments/assets/1efba188-231f-4bfd-b6f2-18b7f9e292b3" width="560px"> </p>
 
